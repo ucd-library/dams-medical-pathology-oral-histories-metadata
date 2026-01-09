@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1054971"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1411628"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1995"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3ht2gk8d",
+    "AR-133"
+  ],
+  "schema:description": "The collection contains audio recordings of interviews conducted by Joann Leach Larkey for the Chairmen of the Department of Medical Pathology, University of California, Davis Oral History Project. The interviews were conducted to mark the 25th Anniversary of the founding of the School of Medicine and have been transcribed into a printed volume.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:image": {
+    "@id": "@base:/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.jpg"
+  },
+  "schema:name": "University of California, Davis, Department of Medical Pathology Oral History Recordings",
+  "schema:creator": "Larkey, Joann Leach",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}

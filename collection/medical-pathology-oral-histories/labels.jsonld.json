@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1054971",
+    "http://schema.org/name": "Pathology--Study and teaching"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1411628",
+    "http://schema.org/name": "History"
+  }
+]
