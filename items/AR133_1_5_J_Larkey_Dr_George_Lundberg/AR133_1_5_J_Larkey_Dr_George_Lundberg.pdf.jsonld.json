@@ -11,8 +11,8 @@
   "@id": "",
   "@type": [
     "schema:ImageObject",
-    "schema:CreativeWork",
-    "schema:MediaObject"
+    "schema:MediaObject",
+    "schema:CreativeWork"
   ],
   "ebucore:filename": "AR133_1_5_J_Larkey_Dr_George_Lundberg.pdf",
   "ebucore:hasMimeType": "application/pdf"

@@ -11,8 +11,8 @@
   "@id": "",
   "@type": [
     "schema:ImageObject",
-    "schema:CreativeWork",
-    "schema:MediaObject"
+    "schema:MediaObject",
+    "schema:CreativeWork"
   ],
   "ebucore:filename": "AR133_1_1_J_Larkey_Dr_Robert_Cardiff.pdf",
   "ebucore:hasMimeType": "application/pdf"

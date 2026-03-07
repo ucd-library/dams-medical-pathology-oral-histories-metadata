@@ -11,8 +11,8 @@
   "@id": "",
   "@type": [
     "schema:ImageObject",
-    "schema:CreativeWork",
-    "schema:MediaObject"
+    "schema:MediaObject",
+    "schema:CreativeWork"
   ],
   "ebucore:filename": "AR133_1_3_J_Larkey_Dr_Murray_Gardner.pdf",
   "ebucore:hasMimeType": "application/pdf"
