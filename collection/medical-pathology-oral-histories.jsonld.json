@@ -10,8 +10,7 @@
   },
   "@id": "",
   "@type": [
-    "schema:Collection",
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:Collection"
   ],
   "ucdlib:hasLabel": {
     "@id": "@base:/labels"
