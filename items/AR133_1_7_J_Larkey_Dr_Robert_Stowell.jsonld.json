@@ -14,14 +14,9 @@
     "schema:AudioObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": [
-    {
-      "@id": "@base:/AR133_1_7_J_Larkey_Dr_Robert_Stowell.mp3"
-    },
-    {
-      "@id": "@base:/AR133_1_7_J_Larkey_Dr_Robert_Stowell.pdf"
-    }
-  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/AR133_1_7_J_Larkey_Dr_Robert_Stowell.mp3"
+  },
   "schema:image": {
     "@id": "@base:/AR133_1_7_J_Larkey_Dr_Robert_Stowell.jpg"
   },

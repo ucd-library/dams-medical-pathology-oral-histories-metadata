@@ -14,14 +14,9 @@
     "schema:AudioObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": [
-    {
-      "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.mp3"
-    },
-    {
-      "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.pdf"
-    }
-  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.mp3"
+  },
   "schema:image": {
     "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.jpg"
   },
@@ -37,6 +32,6 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Biography of Dr. Sefton Wellings",
+  "schema:name": "Interview of Dr. Sefton Wellings",
   "schema:publisher": "UC Davis Library, Archives and Special Collections"
 }

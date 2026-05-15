@@ -14,6 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "ebucore:filename": "AR133_1_7_J_Larkey_Dr_Robert_Stowell.pdf",
-  "ebucore:hasMimeType": "application/pdf"
+  "schema:position": "023",
+  "ebucore:filename": "Oral_History_Project_023.tif",
+  "ebucore:hasMimeType": "image/tiff"
 }

@@ -14,6 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "ebucore:filename": "AR133_1_5_J_Larkey_Dr_George_Lundberg.pdf",
-  "ebucore:hasMimeType": "application/pdf"
+  "schema:position": "055",
+  "ebucore:filename": "Oral_History_Project_055.tif",
+  "ebucore:hasMimeType": "image/tiff"
 }

@@ -14,6 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "ebucore:filename": "AR133_1_10_J_Larkey_Dr_Sefton_Wellings.pdf",
-  "ebucore:hasMimeType": "application/pdf"
+  "schema:position": "068",
+  "ebucore:filename": "Oral_History_Project_068.tif",
+  "ebucore:hasMimeType": "image/tiff"
 }

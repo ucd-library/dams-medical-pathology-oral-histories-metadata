@@ -42,7 +42,7 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:image": {
-    "@id": "@base:/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.jpg"
+    "@id": "info:fedora/item/ark:/87293/d38c9rc3m/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.jpg"
   },
   "schema:name": "University of California, Davis, Department of Medical Pathology Oral History Recordings",
   "schema:creator": "Larkey, Joann Leach",

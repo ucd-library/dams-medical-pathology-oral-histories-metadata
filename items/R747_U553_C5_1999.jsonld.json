@@ -15,23 +15,23 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/AR133_1_5_J_Larkey_Dr_George_Lundberg.mp3"
-  },
+      "@id": "@base:/media/R747_U553_C5_1999.pdf"
+    },
   "schema:image": {
-    "@id": "@base:/AR133_1_5_J_Larkey_Dr_George_Lundberg.jpg"
+    "@id": "@base:/media/images/Oral_History_Project_001.tif"
   },
   "schema:creator": "Larkey, Joann Leach",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1995"
+    "@value": "1999"
   },
   "schema:identifier": [
-    "ark:/87293/d3rb6w96p",
-    "AR-133"
+    "ark:/87293/d3t727r95",
+    "R747_U553_C5_1999"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Interview with Dr. George Lundberg",
+  "schema:name": "Oral History Project, Chairmen of the Department of Medical Pathology, 1967-1996",
   "schema:publisher": "UC Davis Library, Archives and Special Collections"
 }
