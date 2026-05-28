@@ -18,7 +18,7 @@
     "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.mp3"
   },
   "schema:image": {
-    "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.jpg"
+    "@id": "@base:/audioclipart.png"
   },
   "schema:creator": "Larkey, Joann Leach",
   "schema:datePublished": {

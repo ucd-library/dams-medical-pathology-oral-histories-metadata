@@ -18,7 +18,7 @@
     "@id": "@base:/AR133_1_5_J_Larkey_Dr_George_Lundberg.mp3"
   },
   "schema:image": {
-    "@id": "@base:/AR133_1_5_J_Larkey_Dr_George_Lundberg.jpg"
+    "@id": "@base:/audioclipart.png"
   },
   "schema:creator": "Larkey, Joann Leach",
   "schema:datePublished": {
