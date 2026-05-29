@@ -37,12 +37,12 @@
     "ark:/87293/d3ht2gk8d",
     "AR-133"
   ],
-  "schema:description": "The collection contains audio recordings of interviews conducted by Joann Leach Larkey for the Chairmen of the Department of Medical Pathology, University of California, Davis Oral History Project. The interviews were conducted to mark the 25th Anniversary of the founding of the School of Medicine and have been transcribed into a printed volume.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8tx3gvd)",
+  "schema:description": "The collection contains audio recordings of interviews conducted by Joann Leach Larkey for the Chairmen of the Department of Medical Pathology, University of California, Davis Oral History Project. The interviews were conducted to mark the 25th Anniversary of the founding of the School of Medicine and have been transcribed into a printed volume.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8tx3gvd)\n\n A transcript of the interviews, bound and titled [Oral History Project, Chairmen of the Department of Medical Pathology, 1967-1996](https://dev.dams.library.ucdavis.edu/item/ark:/87293/d3t727r95) is included in this collection.",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:image": {
-    "@id": "@base:/logo.png"
+    "@id": "@base:/logo.jpg"
   },
   "schema:name": "University of California, Davis, Department of Medical Pathology Oral Histories",
   "schema:creator": "Larkey, Joann Leach",
