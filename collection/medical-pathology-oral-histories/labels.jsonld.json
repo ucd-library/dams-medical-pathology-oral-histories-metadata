@@ -14,10 +14,6 @@
     "http://schema.org/name": "Pathology--Study and teaching"
   },
   {
-    "@id": "http://id.worldcat.org/fast/1207676",
-    "http://schema.org/name": "California--Davis"
-  },
-  {
     "@id": "http://id.worldcat.org/fast/1976289",
     "http://schema.org/name": "University of California, Davis. School of Medicine. Department of Pathology"
   },

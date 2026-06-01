@@ -18,7 +18,7 @@
     "@id": "@base:/AR133_1_7_J_Larkey_Dr_Robert_Stowell.mp3"
   },
   "schema:image": {
-    "@id": "@base:/audioclipart.png"
+    "@id": "@base:/Stowell.png"
   },
   "schema:creator": "Larkey, Joann Leach",
   "schema:datePublished": {

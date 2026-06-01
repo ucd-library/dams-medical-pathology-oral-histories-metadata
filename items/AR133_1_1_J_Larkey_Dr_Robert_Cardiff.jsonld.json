@@ -18,7 +18,7 @@
     "@id": "@base:/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.mp3"
   },
   "schema:image": {
-    "@id": "@base:/audioclipart.png"
+    "@id": "@base:/Cardiff.png"
   },
   "schema:creator": "Larkey, Joann Leach",
   "schema:datePublished": {
