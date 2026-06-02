@@ -28,7 +28,7 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1995"
+    "@value": "2026"
   },
   "schema:identifier": [
     "ark:/87293/d3ht2gk8d",
@@ -46,7 +46,7 @@
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2025"
+    "@value": "2026"
   },
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
