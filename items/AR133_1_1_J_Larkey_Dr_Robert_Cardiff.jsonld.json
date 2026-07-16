@@ -17,6 +17,9 @@
   "schema:associatedMedia": {
     "@id": "@base:/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.mp3"
   },
+  "schema:transcript": {
+    "@id": "@base:/AR133_1_1_J_Larkey_Dr_Robert_Cardiff.pdf"
+  },
   "schema:image": {
     "@id": "@base:/Cardiff.png"
   },
