@@ -17,9 +17,6 @@
   "schema:associatedMedia": [
     {
     "@id": "@base:/AR133_1_8_J_Larkey_Dr_Wilford_Toreson.mp3"
-    },
-    {
-      "@id": "@base:/AR133_1_8_J_Larkey_Dr_Wilford_Toreson.pdf"
     }
   ],
   "schema:image": {

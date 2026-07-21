@@ -17,9 +17,6 @@
   "schema:associatedMedia": [
     {
       "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.mp3"
-    },
-    {
-      "@id": "@base:/AR133_1_10_J_Larkey_Dr_Sefton_Wellings.pdf"
     }
   ],
   "schema:image": {
